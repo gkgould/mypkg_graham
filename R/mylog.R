@@ -13,3 +13,4 @@ mylog <- function(x){
   }
 return(res)
 }
+
