@@ -14,3 +14,4 @@ mylog <- function(x){
 return(res)
 }
 
+# Test part 2
